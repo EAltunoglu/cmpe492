@@ -26,7 +26,7 @@ def main():
     grades = grades.loc[grades['FinalGrade'].isin(LETTERGRADES.keys())]
     grades['FinalGrade'] = grades['FinalGrade'].apply(get_number_grade)
 
-    ans = psql.sqldf('SELECT egoid, FinalGrade as grade, CourseReferenceNumber FROM grades GROUP BY egoid, CourseReferenceNumber')
+    ans = psql.sqldf('SELECT egoid, FinalGrade as grade, CourseReferenceNumber as course, AcademicPeriod FROM grades GROUP BY egoid, CourseReferenceNumber')
 
     ans = ans.sort_values(by='egoid')
 
