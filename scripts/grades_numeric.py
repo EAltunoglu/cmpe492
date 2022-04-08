@@ -22,7 +22,7 @@ def get_number_grade(letter_grade: str) -> float:
 
 
 def main():
-    grades = pd.read_csv("grades.csv")
+    grades = pd.read_csv("../original_data/grade.csv")
     grades = grades.loc[grades['FinalGrade'].isin(LETTERGRADES.keys())]
     grades['FinalGrade'] = grades['FinalGrade'].apply(get_number_grade)
 
@@ -30,7 +30,7 @@ def main():
 
     ans = ans.sort_values(by='egoid')
 
-    ans.to_csv('grades_numeric.csv', index=False)
+    ans.to_csv('grade_numeric.csv', index=False)
 
 if __name__ == "__main__":
     main()

@@ -7,7 +7,11 @@ __pycache__/
 *.so
 
 # CSV
-*.csv
+*/*.csv
+!original_data/*.csv
+!merged_data/sleep_activity.csv
+!merged_data/sleep_grade_term.csv
+
 
 # Distribution / packaging
 .Python
