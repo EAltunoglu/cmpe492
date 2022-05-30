@@ -16,7 +16,6 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 77941,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
 44873,Less than 1-2 times a month,Not at all,Not at all,Not at all,Not at all,Not at all
 36540,,,,,,
-14527,,,,,,
 83005,Not at all,Not at all,Less than 1-2 times a month,Not at all,Not at all,Three times a week or more
 31439,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
 21899,Less than 1-2 times a month,1-2 times a week,Not at all,Not at all,Not at all,1-2 times a week
@@ -25,7 +24,6 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 45375,1-2 times a month,Three times a week or more,1-2 times a week,Not at all,Not at all,Less than 1-2 times a month
 25536,,,,,,
 32037,Not at all,Not at all,1-2 times a week,Not at all,Not at all,1-2 times a month
-90476,,,,,,
 46558,Not at all,Less than 1-2 times a month,Not at all,Not at all,Not at all,Not at all
 24016,,,,,,
 52277,,,,,,
@@ -51,7 +49,6 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 82376,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,1-2 times a month
 44872,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
 87783,Not at all,Not at all,Not at all,Not at all,Not at all,Three times a week or more
-22199,,,,,,
 47498,Not at all,1-2 times a month,1-2 times a month,Not at all,Not at all,Three times a week or more
 57325,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,Three times a week or more
 53776,,,,,,
@@ -61,7 +58,6 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 73143,Not at all,1-2 times a week,Less than 1-2 times a month,Not at all,Not at all,1-2 times a week
 35797,,,,,,
 46365,1-2 times a month,Three times a week or more,Three times a week or more,1-2 times a month,Less than 1-2 times a month,Three times a week or more
-30596,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a week
 31045,,,,,,
 74492,,,,,,
 76791,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
@@ -69,7 +65,6 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 23287,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
 14763,,,,,,
 22066,,,,,,
-64058,,,,,,
 28247,Not at all,1-2 times a month,1-2 times a week,Not at all,Not at all,Less than 1-2 times a month
 72873,,,,,,
 67544,Not at all,1-2 times a month,1-2 times a week,Not at all,Not at all,Three times a week or more
@@ -77,7 +72,6 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 51760,Less than 1-2 times a month,1-2 times a week,1-2 times a month,Not at all,Not at all,1-2 times a month
 72806,Not at all,Not at all,1-2 times a month,Not at all,Not at all,Three times a week or more
 98766,Not at all,1-2 times a week,1-2 times a month,Not at all,Not at all,1-2 times a week
-23042,,,,,,
 60997,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Less than 1-2 times a month
 36038,1-2 times a month,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a month
 39146,Not at all,Not at all,Not at all,Not at all,Not at all,Three times a week or more
@@ -85,8 +79,6 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 67918,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,Three times a week or more
 34467,Not at all,Not at all,Not at all,Not at all,Not at all,Less than 1-2 times a month
 42132,,,,,,
-41268,,,,,,
-90692,Not at all,1-2 times a month,1-2 times a month,Not at all,Not at all,Three times a week or more
 32668,1-2 times a month,Three times a week or more,Three times a week or more,Less than 1-2 times a month,Not at all,Three times a week or more
 24079,,,,,,
 59673,Not at all,1-2 times a month,1-2 times a month,Not at all,Not at all,Three times a week or more
@@ -95,11 +87,8 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 81807,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,Less than 1-2 times a month
 77187,,,,,,
 91176,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-22292,,,,,,
 35011,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a week
-76785,,,,,,
 60903,,,,,,
-10115,,,,,,
 35416,Not at all,Not at all,Not at all,Not at all,Not at all,Three times a week or more
 89710,,,,,,
 97596,Not at all,Not at all,1-2 times a week,Not at all,Not at all,Three times a week or more
@@ -111,17 +100,13 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 67334,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a month
 60230,,,,,,
 77838,Less than 1-2 times a month,Three times a week or more,Three times a week or more,1-2 times a month,Less than 1-2 times a month,Three times a week or more
-37371,,,,,,
 57292,,,,,,
 66406,,,,,,
-90447,,,,,,
 56798,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a week
-28827,,,,,,
 23115,,,,,,
 77872,Less than 1-2 times a month,1-2 times a week,1-2 times a month,Not at all,Not at all,Three times a week or more
 43114,Not at all,Three times a week or more,Three times a week or more,Not at all,Not at all,Three times a week or more
 72348,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a week
-15707,,,,,,
 45776,,,,,,
 63122,,,,,,
 27169,,,,,,
@@ -134,7 +119,6 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 28820,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a week
 35347,Not at all,Not at all,Not at all,Not at all,Not at all,Three times a week or more
 45641,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,Three times a week or more
-25369,,,,,,
 64572,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a month
 31538,,,,,,
 73452,Not at all,1-2 times a week,1-2 times a week,Not at all,Less than 1-2 times a month,Not at all
@@ -156,23 +140,19 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 74845,1-2 times a month,1-2 times a week,1-2 times a week,Less than 1-2 times a month,Less than 1-2 times a month,1-2 times a week
 90905,,,,,,
 39659,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,Three times a week or more
-62072,,,,,,
 60396,Not at all,1-2 times a week,1-2 times a week,Less than 1-2 times a month,Not at all,Not at all
 61084,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
 92412,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
 92038,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Not at all
 33388,1-2 times a month,Three times a week or more,Three times a week or more,Less than 1-2 times a month,Not at all,1-2 times a month
 31717,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
-18324,,,,,,
 86440,,,,,,
 95585,,,,,,
 29792,,,,,,
 14737,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,Three times a week or more
 28223,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a week
-85708,,,,,,
 55452,,,,,,
 20179,,,,,,
-78339,,,,,,
 23696,1-2 times a month,1-2 times a week,1-2 times a week,1-2 times a month,Not at all,Three times a week or more
 28653,,,,,,
 84715,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
@@ -192,26 +172,19 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 44927,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a week
 71894,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
 76790,Not at all,Three times a week or more,Three times a week or more,Not at all,Not at all,Three times a week or more
-78428,,,,,,
 66676,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a week
 95930,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a month
 70962,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a week
 12738,Three times a week or more,Not at all,1-2 times a week,Three times a week or more,Not at all,Less than 1-2 times a month
-29647,Not at all,1-2 times a week,1-2 times a month,Not at all,Not at all,Three times a week or more
 27111,,,,,,
 30453,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-58219,,,,,,
-28377,,,,,,
 80177,Not at all,1-2 times a week,1-2 times a week,Less than 1-2 times a month,Not at all,Three times a week or more
 18677,,,,,,
 66047,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,Less than 1-2 times a month
 58682,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a week
-81199,,,,,,
-85679,,,,,,
 79834,Not at all,Less than 1-2 times a month,Three times a week or more,Not at all,Not at all,Not at all
 93471,,,,,,
 19538,Not at all,Not at all,Not at all,Not at all,Not at all,Three times a week or more
-14595,,,,,,
 38052,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Not at all
 33133,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a week
 40021,Not at all,1-2 times a month,1-2 times a month,Not at all,Not at all,Three times a week or more
@@ -220,25 +193,18 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 47810,Not at all,Not at all,1-2 times a week,Not at all,Not at all,1-2 times a month
 58196,Not at all,Less than 1-2 times a month,1-2 times a month,Not at all,Not at all,Three times a week or more
 42773,,,,,,
-72152,,,,,,
 76663,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a month
 48224,Not at all,Not at all,Less than 1-2 times a month,Not at all,Not at all,Three times a week or more
 30137,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,1-2 times a week
 68318,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a month
 62246,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a month
-69496,,,,,,
 61028,Not at all,1-2 times a month,1-2 times a week,Not at all,Not at all,Not at all
 55424,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,1-2 times a week
 17581,,,,,,
 23576,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,Not at all
-57842,Not at all,1-2 times a week,1-2 times a week,Less than 1-2 times a month,Not at all,Three times a week or more
 17522,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a week
-55685,,,,,,
-74079,,,,,,
 97833,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
-11992,,,,,,
 93485,,,,,,
-34402,,,,,,
 62617,Not at all,1-2 times a month,1-2 times a week,Not at all,Not at all,Three times a week or more
 42137,Not at all,Not at all,Less than 1-2 times a month,Not at all,Not at all,Three times a week or more
 37305,,,,,,
@@ -246,14 +212,11 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 44447,,,,,,
 14571,Not at all,Not at all,1-2 times a month,Not at all,Not at all,Not at all
 69057,Not at all,1-2 times a month,1-2 times a month,Less than 1-2 times a month,Not at all,Three times a week or more
-49125,,,,,,
 66629,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a month
 83542,,,,,,
 18222,Not at all,1-2 times a month,1-2 times a month,Not at all,Not at all,1-2 times a week
 39738,Not at all,Not at all,1-2 times a month,Not at all,Not at all,Not at all
 26858,Not at all,Less than 1-2 times a month,1-2 times a month,Not at all,Not at all,1-2 times a month
-70552,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
-38826,,,,,,
 93504,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
 64232,Not at all,1-2 times a week,1-2 times a week,Less than 1-2 times a month,Not at all,Three times a week or more
 37404,Not at all,Less than 1-2 times a month,1-2 times a week,Not at all,Not at all,Three times a week or more
@@ -264,7 +227,6 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 28824,,,,,,
 11482,Not at all,Less than 1-2 times a month,1-2 times a month,1-2 times a month,Not at all,Three times a week or more
 69936,,,,,,
-91320,,,,,,
 37001,,,,,,
 70492,Less than 1-2 times a month,1-2 times a week,1-2 times a week,Not at all,Less than 1-2 times a month,1-2 times a month
 95543,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a month
@@ -292,14 +254,10 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 67608,Not at all,1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,1-2 times a week
 19735,Not at all,1-2 times a week,1-2 times a week,1-2 times a week,Not at all,1-2 times a week
 42513,,,,,,
-64595,,,,,,
-85134,,,,,,
 51952,1-2 times a month,Three times a week or more,Three times a week or more,Not at all,Not at all,Three times a week or more
-28837,,,,,,
 46266,,,,,,
 61289,,,,,,
 18743,,,,,,
-13647,,,,,,
 59207,Not at all,1-2 times a month,1-2 times a month,Not at all,Not at all,Less than 1-2 times a month
 48946,Not at all,1-2 times a month,1-2 times a month,Not at all,Not at all,1-2 times a month
 86083,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a week
@@ -313,10 +271,7 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 94455,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Not at all
 11148,Less than 1-2 times a month,Not at all,Not at all,Not at all,Not at all,Three times a week or more
 88384,,,,,,
-60904,,,,,,
 64302,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-51882,,,,,,
-54200,,,,,,
 22688,Less than 1-2 times a month,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a month
 38815,Not at all,Three times a week or more,Less than 1-2 times a month,Not at all,Not at all,1-2 times a week
 34525,,,,,,
@@ -328,7 +283,6 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 72160,,,,,,
 55569,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,1-2 times a week
 72885,Less than 1-2 times a month,1-2 times a week,1-2 times a month,Three times a week or more,Not at all,Less than 1-2 times a month
-47006,,,,,,
 36574,1-2 times a month,1-2 times a week,1-2 times a week,Not at all,Not at all,Not at all
 71193,,,,,,
 44070,Not at all,Less than 1-2 times a month,1-2 times a month,Not at all,Not at all,Three times a week or more
@@ -340,7 +294,6 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 98117,Not at all,Not at all,Not at all,Not at all,Not at all,Three times a week or more
 22989,Less than 1-2 times a month,Three times a week or more,1-2 times a week,Not at all,Not at all,1-2 times a week
 24883,1-2 times a month,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
-65068,,,,,,
 20650,Less than 1-2 times a month,1-2 times a week,1-2 times a month,Not at all,Not at all,Not at all
 19460,,,,,,
 66815,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a month
@@ -359,9 +312,7 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 57144,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
 94662,Not at all,Not at all,Not at all,Not at all,Not at all,Three times a week or more
 98700,,,,,,
-44675,,,,,,
 33341,,,,,,
-37396,,,,,,
 65072,1-2 times a month,Three times a week or more,1-2 times a week,Less than 1-2 times a month,Not at all,1-2 times a week
 37148,,,,,,
 11910,Not at all,1-2 times a month,1-2 times a week,Not at all,Not at all,1-2 times a week
@@ -378,7 +329,6 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 29733,Not at all,Not at all,Less than 1-2 times a month,Not at all,Not at all,Not at all
 98206,Not at all,Not at all,1-2 times a week,Not at all,Not at all,1-2 times a week
 36385,Not at all,1-2 times a month,1-2 times a month,Not at all,Not at all,1-2 times a week
-26651,,,,,,
 54030,,,,,,
 67993,Not at all,1-2 times a week,1-2 times a month,Not at all,Not at all,Three times a week or more
 96543,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,Three times a week or more
@@ -388,7 +338,6 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 72850,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
 15134,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
 69124,,,,,,
-42531,,,,,,
 34062,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
 18111,Not at all,1-2 times a month,1-2 times a month,Less than 1-2 times a month,Not at all,Three times a week or more
 42646,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,Three times a week or more
@@ -398,7 +347,6 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 91484,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,1-2 times a month
 24833,Not at all,Three times a week or more,Three times a week or more,Not at all,Not at all,Three times a week or more
 21971,,,,,,
-58654,,,,,,
 13928,,,,,,
 84502,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
 64090,,,,,,
@@ -406,7 +354,6 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 78783,Not at all,Three times a week or more,Three times a week or more,Not at all,Not at all,1-2 times a week
 25197,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Not at all
 35872,,,,,,
-93462,,,,,,
 23270,Not at all,Less than 1-2 times a month,1-2 times a week,Not at all,Not at all,Less than 1-2 times a month
 69807,,,,,,
 92716,Not at all,Three times a week or more,1-2 times a week,Not at all,Not at all,Three times a week or more
@@ -419,25 +366,19 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 67192,,,,,,
 12029,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a month
 70745,Not at all,Less than 1-2 times a month,1-2 times a week,Not at all,Not at all,1-2 times a week
-43255,Not at all,Three times a week or more,Three times a week or more,Not at all,Not at all,Three times a week or more
 93856,Not at all,Not at all,1-2 times a month,Not at all,Not at all,1-2 times a month
 10237,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,1-2 times a week,1-2 times a week
 97448,Not at all,1-2 times a month,1-2 times a week,Not at all,Not at all,1-2 times a month
-43603,,,,,,
-86974,Not at all,Three times a week or more,1-2 times a week,Less than 1-2 times a month,Not at all,1-2 times a week
 89165,,,,,,
 97280,,,,,,
 54098,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a month
 66156,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a week
 67177,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,1-2 times a month
 22540,Not at all,Not at all,Not at all,Not at all,Not at all,Less than 1-2 times a month
-70668,,,,,,
 15586,1-2 times a week,1-2 times a week,1-2 times a week,Not at all,Less than 1-2 times a month,Three times a week or more
-27232,,,,,,
 18611,1-2 times a week,Not at all,1-2 times a week,Not at all,Not at all,Less than 1-2 times a month
 87328,Not at all,,,Not at all,Not at all,1-2 times a week
 88963,,,,,,
-61756,,,,,,
 57045,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
 49497,Not at all,1-2 times a week,1-2 times a week,1-2 times a month,1-2 times a month,1-2 times a week
 15031,,,,,,
@@ -471,9 +412,7 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 48969,Not at all,Not at all,Less than 1-2 times a month,Not at all,Not at all,1-2 times a week
 22093,,,,,,
 32919,,,,,,
-10153,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a month
 79731,Not at all,1-2 times a month,1-2 times a month,Not at all,Not at all,Three times a week or more
-63611,,,,,,
 64296,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a week
 23487,,,,,,
 17569,1-2 times a month,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a week
@@ -492,16 +431,13 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 38610,Not at all,Less than 1-2 times a month,1-2 times a month,Not at all,Not at all,Less than 1-2 times a month
 96610,,,,,,
 77711,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Not at all
-48505,,,,,,
 78667,,,,,,
 17020,Not at all,1-2 times a month,1-2 times a month,Not at all,Not at all,Less than 1-2 times a month
 48676,Not at all,1-2 times a month,1-2 times a week,Not at all,Not at all,Three times a week or more
 29885,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a week
-32976,,,,,,
 79167,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Not at all
 65061,,,,,,
 43710,Not at all,Less than 1-2 times a month,1-2 times a week,Not at all,Not at all,1-2 times a month
-61389,,,,,,
 22455,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
 82819,,,,,,
 67771,,,,,,
@@ -529,31 +465,25 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 25125,Not at all,1-2 times a week,1-2 times a week,Less than 1-2 times a month,Not at all,Three times a week or more
 25548,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
 25966,Not at all,1-2 times a month,1-2 times a week,Not at all,Not at all,Three times a week or more
-95444,,,,,,
 96689,Not at all,Not at all,Not at all,Not at all,Not at all,Three times a week or more
-22587,,,,,,
 43581,,,,,,
 75578,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a week
 43507,,,,,,
 91551,,,,,,
-30676,,,,,,
 19030,,,,,,
 33657,Not at all,1-2 times a month,1-2 times a month,Not at all,Not at all,Three times a week or more
 76521,,,,,,
 52848,,,,,,
 40231,,,,,,
 65656,Not at all,Less than 1-2 times a month,Not at all,Not at all,Not at all,Less than 1-2 times a month
-30610,,,,,,
 36117,Not at all,1-2 times a month,1-2 times a month,Not at all,Not at all,Three times a week or more
 82587,Not at all,Not at all,1-2 times a month,Not at all,Not at all,1-2 times a week
 14690,Less than 1-2 times a month,1-2 times a month,1-2 times a week,1-2 times a month,1-2 times a month,Three times a week or more
 40569,,,,,,
-97021,,,,,,
 26320,,,,,,
 77532,Not at all,Not at all,Not at all,Not at all,Not at all,Three times a week or more
 92515,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a month
 97844,Not at all,1-2 times a month,1-2 times a month,Not at all,Not at all,1-2 times a month
-81647,,,,,,
 33127,,,,,,
 45958,,,,,,
 49790,Not at all,Less than 1-2 times a month,1-2 times a week,Not at all,Not at all,1-2 times a week
@@ -581,12 +511,9 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 61659,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a week
 81420,1-2 times a week,Three times a week or more,1-2 times a month,Not at all,Not at all,1-2 times a month
 33740,1-2 times a month,Not at all,1-2 times a week,Not at all,Not at all,Three times a week or more
-37979,,,,,,
-87192,1-2 times a month,Three times a week or more,Three times a week or more,Three times a week or more,1-2 times a month,1-2 times a week
 67709,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
 36552,Not at all,Not at all,Less than 1-2 times a month,Not at all,Not at all,Three times a week or more
 14301,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,Less than 1-2 times a month
-36384,,,,,,
 63138,Not at all,1-2 times a month,1-2 times a month,Not at all,Not at all,Not at all
 51298,Less than 1-2 times a month,1-2 times a week,1-2 times a month,Not at all,Not at all,1-2 times a week
 74632,Not at all,Not at all,Not at all,Not at all,Not at all,Less than 1-2 times a month
@@ -596,18 +523,12 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 29134,Not at all,1-2 times a week,1-2 times a week,Less than 1-2 times a month,1-2 times a month,1-2 times a week
 24029,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a week
 35361,Not at all,1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,Three times a week or more
-87056,,,,,,
 49086,Not at all,1-2 times a month,1-2 times a week,Not at all,Not at all,Not at all
 67917,,,,,,
 85503,Not at all,Three times a week or more,Three times a week or more,Not at all,Not at all,1-2 times a week
 60008,,,,,,
-66542,,,,,,
 55881,,,,,,
-86265,,,,,,
-10732,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
 22119,,,,,,
-50797,,,,,,
-39564,Not at all,1-2 times a month,1-2 times a month,Not at all,Not at all,Not at all
 39285,,,,,,
 22460,,,,,,
 25172,Not at all,Not at all,Less than 1-2 times a month,Not at all,Not at all,Three times a week or more
@@ -619,24 +540,20 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 95490,1-2 times a month,1-2 times a week,1-2 times a week,Less than 1-2 times a month,Not at all,Three times a week or more
 66979,,,,,,
 23253,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,Three times a week or more
-12900,,,,,,
 90079,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a week
 47584,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a week
 97990,Not at all,Not at all,Not at all,Not at all,Not at all,Three times a week or more
 39248,,,,,,
 29354,,,,,,
-25743,,,,,,
 91429,,,,,,
 82269,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
 22842,Not at all,Not at all,Less than 1-2 times a month,Not at all,Not at all,1-2 times a week
 31311,,,,,,
-32423,,,,,,
 33084,Not at all,Not at all,Not at all,Not at all,Not at all,Less than 1-2 times a month
 14279,Not at all,Not at all,1-2 times a week,Not at all,Not at all,Not at all
 91932,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
 32404,1-2 times a month,Three times a week or more,Three times a week or more,Not at all,Not at all,Not at all
 73577,Not at all,Not at all,Not at all,Not at all,Not at all,1-2 times a week
-70561,,,,,,
 43177,Not at all,1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,1-2 times a month
 36501,,,,,,
 26857,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
@@ -644,13 +561,11 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 42674,,,,,,
 79897,,,,,,
 64978,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Not at all
-70434,,,,,,
 52302,Not at all,1-2 times a week,1-2 times a month,Not at all,Not at all,Not at all
 97050,Not at all,Not at all,Not at all,Not at all,Not at all,Three times a week or more
 46418,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a month
 86691,,,,,,
 93002,Not at all,Not at all,Not at all,Not at all,Not at all,Three times a week or more
-81930,,,,,,
 56543,Not at all,Not at all,Not at all,Not at all,Less than 1-2 times a month,Not at all
 92618,,,,,,
 17470,Less than 1-2 times a month,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a week
@@ -674,26 +589,17 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 72570,,,,,,
 67574,Not at all,Three times a week or more,Three times a week or more,Not at all,Less than 1-2 times a month,Three times a week or more
 42231,,,,,,
-44639,Not at all,Less than 1-2 times a month,Less than 1-2 times a month,Not at all,Not at all,1-2 times a week
-64072,,,,,,
 84960,,,,,,
-43809,Less than 1-2 times a month,1-2 times a week,1-2 times a week,Less than 1-2 times a month,Not at all,Three times a week or more
-27941,,,,,,
 31033,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
-39301,,,,,,
 10469,Not at all,1-2 times a month,1-2 times a month,Not at all,Not at all,1-2 times a month
 77789,Not at all,Less than 1-2 times a month,1-2 times a week,Not at all,Not at all,Three times a week or more
 47024,,,,,,
 88582,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-73897,,,,,,
 83470,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a week
 67015,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,1-2 times a month
 26272,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
 21909,,,,,,
 88882,Not at all,1-2 times a week,1-2 times a week,Not at all,Not at all,Three times a week or more
-62510,,,,,,
-96828,Not at all,1-2 times a month,1-2 times a week,Not at all,Not at all,Less than 1-2 times a month
-64406,,,,,,
 31985,,,,,,
 91337,,,,,,
 87664,,,,,,
@@ -705,19 +611,13 @@ egoid,usetobacco_3,usebeer_3,usewine_3,usedrugs_3,usedrugs_prescr_3,usecaffine_3
 93787,Not at all,Less than 1-2 times a month,Not at all,Not at all,Not at all,Three times a week or more
 52621,,,,,,
 38914,,,,,,
-37594,,,,,,
 19833,,,,,,
-17270,,,,,,
 40864,Not at all,Not at all,Not at all,Not at all,Not at all,Three times a week or more
-38313,1-2 times a month,1-2 times a month,1-2 times a week,Not at all,Not at all,Three times a week or more
-55340,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
 18707,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
-73807,,,,,,
 26718,,,,,,
 63347,,,,,,
 35824,Not at all,1-2 times a week,1-2 times a week,1-2 times a month,Not at all,Three times a week or more
 48826,,,,,,
-11454,,,,,,
 93246,,,,,,
 75341,,,,,,
 35925,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all
