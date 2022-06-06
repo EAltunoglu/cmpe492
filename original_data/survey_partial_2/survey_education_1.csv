@@ -77,7 +77,6 @@ egoid,hs_1,hssex_1,hsgrade_1,apcourses_1,apexams_1,degreeintent_1,major1rc_1,maj
 51760,Public school,A mixture of boys and girls,A or A+,5 or more,5 or more,,,,,11300.0,11100.0,21100.0,45100.0,45100.0,No,
 72806,Private independent college-prep school,A mixture of boys and girls,A or A+,5 or more,5 or more,"Master's Degree (M.A., M.S., MBA, etc.)",134.0,109.0,0-4,13200.0,59200.0,43900.0,,,Yes,no
 98766,Public school,A mixture of boys and girls,A or A+,5 or more,5 or more,"Master's Degree (M.A., M.S., MBA, etc.)",403.0,401.0,11-15,43500.0,41200.0,12100.0,42200.0,49999.0,No,no
-23042,Public school,A mixture of boys and girls,A or A+,5 or more,5 or more,,,,,,,,,,,
 60997,Private religious/parochial school,Same sex- male,A or A+,5 or more,5 or more,,,,,45100.0,43100.0,46100.0,42200.0,45100.0,Yes,
 36038,Private independent college-prep school,Same sex- male,A or A+,5 or more,5 or more,"Master's Degree (M.A., M.S., MBA, etc.)",134.0,110.0,0-4,43500.0,21200.0,41200.0,11300.0,43400.0,Yes,yes
 39146,Private independent college-prep school,A mixture of boys and girls,A or A+,5 or more,5 or more,"Master's Degree (M.A., M.S., MBA, etc.)",503.0,305.0,None,22100.0,17300.0,17300.0,44900.0,,Yes,no
@@ -340,7 +339,6 @@ egoid,hs_1,hssex_1,hsgrade_1,apcourses_1,apexams_1,degreeintent_1,major1rc_1,maj
 98117,Public school,A mixture of boys and girls,A or A+,5 or more,5 or more,Ph.D or Ed.D.,510.0,139.0,None,45100.0,63900.0,45100.0,45100.0,44900.0,No,no
 22989,Private independent college-prep school,Same sex- male,A or A+,3-4,3-4,,,,,11300.0,11300.0,43100.0,25200.0,42200.0,Yes,
 24883,Public school,A mixture of boys and girls,b,5 or more,5 or more,"M.D., D.O., D.D.S., or D.V.M.",302.0,510.0,11-15,16900.0,13200.0,45200.0,43500.0,45100.0,No,no
-65068,Public school,A mixture of boys and girls,A or A+,5 or more,5 or more,,,,,,,,,,Yes,
 20650,Public school,A mixture of boys and girls,A-,5 or more,5 or more,,,,,45200.0,21100.0,21200.0,13200.0,43100.0,No,
 19460,Public school,A mixture of boys and girls,A or A+,5 or more,5 or more,"Master's Degree (M.A., M.S., MBA, etc.)",300.0,400.0,None,13200.0,13200.0,45100.0,45100.0,44900.0,Yes,no
 66815,Private religious/parochial school,Same sex- male,A or A+,5 or more,5 or more,"M.D., D.O., D.D.S., or D.V.M.",129.0,135.0,None,13200.0,13200.0,43100.0,41100.0,43500.0,No,no
@@ -691,7 +689,6 @@ egoid,hs_1,hssex_1,hsgrade_1,apcourses_1,apexams_1,degreeintent_1,major1rc_1,maj
 26272,Public school,A mixture of boys and girls,A or A+,5 or more,5 or more,"M.D., D.O., D.D.S., or D.V.M.",504.0,510.0,0-4,11300.0,44200.0,43300.0,12200.0,41200.0,No,no
 21909,Public school,A mixture of boys and girls,A-,3-4,3-4,"Master's Degree (M.A., M.S., MBA, etc.)",406.0,403.0,11-15,13200.0,43700.0,13200.0,13200.0,13200.0,Yes,no
 88882,Private religious/parochial school,A mixture of boys and girls,A or A+,5 or more,3-4,"Bachelor's degree (B.A., B.S., etc.)",,,11-15,13200.0,13200.0,43100.0,12900.0,13200.0,Yes,yes
-62510,Public magnet school,A mixture of boys and girls,A or A+,5 or more,5 or more,,,,,21100.0,45100.0,45100.0,13200.0,21100.0,Yes,
 96828,Private religious/parochial school,Same sex- female,A or A+,5 or more,5 or more,,,,,11300.0,45200.0,45100.0,45100.0,45100.0,Yes,
 64406,Private independent college-prep school,A mixture of boys and girls,A or A+,Not offered at my high school,Not offered at my high school,"Bachelor's degree (B.A., B.S., etc.)",403.0,506.0,0-4,21300.0,21200.0,13200.0,21300.0,46300.0,Yes,no
 31985,Private religious/parochial school,A mixture of boys and girls,A or A+,5 or more,5 or more,Ph.D or Ed.D.,200.0,,None,49999.0,13200.0,31200.0,13200.0,,Yes,yes
@@ -712,7 +709,6 @@ egoid,hs_1,hssex_1,hsgrade_1,apcourses_1,apexams_1,degreeintent_1,major1rc_1,maj
 38313,Public charter school,A mixture of boys and girls,A or A+,0,5 or more,"Master's Degree (M.A., M.S., MBA, etc.)",503.0,109.0,None,25200.0,45200.0,45100.0,13200.0,44300.0,No,yes
 55340,Public school,A mixture of boys and girls,A or A+,Not offered at my high school,Not offered at my high school,"Master's Degree (M.A., M.S., MBA, etc.)",403.0,401.0,5-10,21300.0,45100.0,21100.0,21200.0,43100.0,No,no
 18707,Public school,A mixture of boys and girls,A or A+,5 or more,5 or more,Ph.D or Ed.D.,507.0,,11-15,11200.0,43900.0,45100.0,42200.0,12200.0,Yes,no
-73807,Public school,A mixture of boys and girls,A or A+,5 or more,5 or more,,,,,45100.0,12100.0,21100.0,45100.0,43600.0,Yes,
 26718,Public school,A mixture of boys and girls,A or A+,1-2,1-2,"Master's Degree (M.A., M.S., MBA, etc.)",306.0,405.0,16-20,13200.0,41100.0,45100.0,41200.0,43800.0,No,no
 63347,Public school,A mixture of boys and girls,A or A+,5 or more,3-4,"Master's Degree (M.A., M.S., MBA, etc.)",502.0,510.0,None,21100.0,45100.0,44300.0,21100.0,41100.0,Yes,no
 35824,Public school,A mixture of boys and girls,A or A+,Not offered at my high school,Not offered at my high school,J.D. (Law),128.0,116.0,None,45200.0,13200.0,43100.0,,,Yes,no
