@@ -75,7 +75,11 @@ def get_class(date: str):
 activity = pd.read_csv('original_data/activity.csv')
 sleep = pd.read_csv('original_data/sleep_daily.csv')
 
+activity = activity[activity['datadate'].str.startswith("2015")]
+sleep = sleep[sleep['dataDate'].str.startswith("2015")]
+
+
 activity_sleep = pd.merge(sleep, activity, left_on=['egoid', 'dataDate'], right_on=['egoid', 'datadate'] )
 activity_sleep.drop('datadate', axis=1, inplace=True)
 activity_sleep['dataDate'] = activity_sleep['dataDate'].apply(get_class)
-activity_sleep.to_csv('merged_data/activity_sleep_daily_date_class.csv', index=False)
+activity_sleep.to_csv('merged_data/activity_sleep_daily_date_class_2015.csv', index=False)
