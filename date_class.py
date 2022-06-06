@@ -6,17 +6,20 @@ calenderrows = [row for index, row in calendercsv.iterrows()]
 shortenedrows = []
 BEGIN_DATE = 'Beginning event date'
 END_DATE = 'End event date'
-holidays = ['Thanksgiving', 'Mid-term break', 'Mid-Term break', 'Easter', 'Summer break', 'Winter break', 'Fall break', 'Spring break', 'fall break', 'spring break']
+holidays = ['Thanksgiving', 'Mid-term break', 'Mid-Term break', 'Easter', 'Summer break',
+            'Winter break', 'Fall break', 'Spring break', 'fall break', 'spring break']
 
 
 for row in calenderrows:
     if not math.isnan(row[BEGIN_DATE]):
         shortenedrows.append(row)
 
+
 def get_term(date: str):
     if 1 <= int(date.split('-')[1]) <= 7:
         return 'spring'
     return 'fall'
+
 
 def get_class(date: str):
     date_float = float(date.replace('-', ''))
@@ -29,7 +32,7 @@ def get_class(date: str):
             if row['Event'] == 'Final exam' or row['Event'] == 'Final Exams' or row['Event'] == 'Final exams':
                 return get_term(date) + '_final'
             return get_term(date) + '_break'
-        
+
         if row[BEGIN_DATE] <= date_float:
             last_applicable = row['Event']
 
@@ -38,13 +41,14 @@ def get_class(date: str):
 
     if last_applicable in holidays:
         return get_term(date) + '_class'
-    
+
     if last_applicable == 'Final exams' or last_applicable == 'Final exam':
         if 2 <= int(date.split('-')[1]) <= 10:
             return 'summer_break'
         return 'winter_break'
 
     return last_applicable.lower()
+
 
 # print(get_class('2015-08-22'))
 # print(get_class('2015-08-23'))
@@ -69,28 +73,23 @@ def get_class(date: str):
 # print(get_class('2016-01-12'))
 # print(get_class('2016-01-13'))
 
+def create_data_for_year(year: int, survey_wave: int):
+    activity = pd.read_csv('original_data/activity.csv')
+    sleep = pd.read_csv('original_data/sleep_daily.csv')
+    survey = pd.read_csv('refined_data/survey_all_{}.csv'.format(survey_wave))
 
-#### 2015
-# activity = pd.read_csv('original_data/activity.csv')
-# sleep = pd.read_csv('original_data/sleep_daily.csv')
+    activity = activity[activity['datadate'].str.startswith(
+        str(year))]
+    sleep = sleep[sleep['dataDate'].str.startswith(str(year))]
 
-# activity = activity[activity['datadate'].str.startswith("2015")]
-# sleep = sleep[sleep['dataDate'].str.startswith("2015")]
+    activity_sleep = pd.merge(sleep, activity, left_on=[
+        'egoid', 'dataDate'], right_on=['egoid', 'datadate'])
 
-# activity_sleep = pd.merge(sleep, activity, left_on=['egoid', 'dataDate'], right_on=['egoid', 'datadate'] )
-# activity_sleep.drop('datadate', axis=1, inplace=True)
-# activity_sleep['dataDate'] = activity_sleep['dataDate'].apply(get_class)
-# activity_sleep.to_csv('merged_data/activity_sleep_daily_date_extended_class.csv', index=False)
+    activity_sleep.drop('datadate', axis=1, inplace=True)
+    activity_sleep['dataDate'] = activity_sleep['dataDate'].apply(get_class)
+    activity_sleep_survey = pd.merge(activity_sleep, survey, on='egoid')
+    activity_sleep_survey.to_csv(
+        'final_data/activity_sleep_survey_date_extended_class_{}.csv'.format(year), index=False)
 
 
-#### 2016
-activity = pd.read_csv('original_data/activity.csv')
-sleep = pd.read_csv('original_data/sleep_daily.csv')
-
-activity = activity[activity['datadate'].str.startswith("2016")]
-sleep = sleep[sleep['dataDate'].str.startswith("2016")]
-
-activity_sleep = pd.merge(sleep, activity, left_on=['egoid', 'dataDate'], right_on=['egoid', 'datadate'] )
-activity_sleep.drop('datadate', axis=1, inplace=True)
-activity_sleep['dataDate'] = activity_sleep['dataDate'].apply(get_class)
-activity_sleep.to_csv('merged_data/activity_sleep_daily_date_extended_class_2016.csv', index=False)
+create_data_for_year(2015, 1)
