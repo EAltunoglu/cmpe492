@@ -92,4 +92,5 @@ def create_data_for_year(year: int, survey_wave: int):
         'final_data/activity_sleep_survey_date_extended_class_{}_{}.csv'.format(year, survey_wave), index=False)
 
 
-create_data_for_year(2015, 1)
+create_data_for_year(2016, 1)
+create_data_for_year(2016, 2)
