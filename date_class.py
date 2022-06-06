@@ -89,7 +89,7 @@ def create_data_for_year(year: int, survey_wave: int):
     activity_sleep['dataDate'] = activity_sleep['dataDate'].apply(get_class)
     activity_sleep_survey = pd.merge(activity_sleep, survey, on='egoid')
     activity_sleep_survey.to_csv(
-        'final_data/activity_sleep_survey_date_extended_class_{}.csv'.format(year), index=False)
+        'final_data/activity_sleep_survey_date_extended_class_{}_{}.csv'.format(year, survey_wave), index=False)
 
 
 create_data_for_year(2015, 1)
