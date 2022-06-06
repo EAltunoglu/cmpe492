@@ -229,6 +229,8 @@ def select_fields(index):
     # put the result into a file
 
     education_refined.to_csv('../refined_data/survey_education_{}.csv'.format(index), index=False)
+    health_refined.to_csv('../refined_data/survey_health_{}.csv'.format(index), index=False)
+    mental_health_refined.to_csv('../refined_data/survey_mental_health_{}.csv'.format(index), index=False)
     origin_refined.to_csv('../refined_data/survey_origin_{}.csv'.format(index), index=False)
     personal_refined.to_csv('../refined_data/survey_personal_{}.csv'.format(index), index=False)
     sleep_refined.to_csv('../refined_data/survey_sleep_{}.csv'.format(index), index=False)
@@ -240,7 +242,9 @@ def select_fields(index):
 
     # join all the dataframes
 
-    m1 = pd.merge(education_refined, origin_refined, on='egoid', how='outer')
+    m1 = pd.merge(education_refined, health_refined, on='egoid', how='outer')
+    m1 = pd.merge(m1, mental_health_refined, on='egoid', how='outer')
+    m1 = pd.merge(m1, origin_refined, on='egoid', how='outer')
     m1 = pd.merge(m1, personal_refined, on='egoid', how='outer')
     m1 = pd.merge(m1, sleep_refined, on='egoid', how='outer')
     m1 = pd.merge(m1, personality_inv_refined, on='egoid', how='outer')
@@ -250,8 +254,6 @@ def select_fields(index):
 
     m1.to_csv('../refined_data/survey_all_{}.csv'.format(index), index=False)
 
-    
-    
 
 for i in range(1, 9):
     select_fields(i)

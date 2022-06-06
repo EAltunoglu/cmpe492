@@ -9,7 +9,7 @@ BEGIN_DATE = 'Beginning event date'
 END_DATE = 'End event date'
 # BEGIN_DATE = 'Begin Date'
 # END_DATE = 'End date'
-holidays = ['Thanksgiving', 'Mid-term break', 'Mid-Term break', 'Easter']
+holidays = ['Thanksgiving', 'Mid-term break', 'Mid-Term break', 'Easter', 'Halloween', 'Christmas', 'Fall break', 'Spring break', 'Summer break', 'Winter break', 'fall break', 'spring break', 'summer break', 'winter break', 'thanksgiving', 'easter', 'halloween']
 
 
 for row in calenderrows:
@@ -20,53 +20,28 @@ for row in calenderrows:
 
 def get_class(date: str):
     date_float = float(date.replace('-', ''))
-    next_class_begin = None
-    last_class_begin = 20140325
-    last_final_exam = 20140325
-    next_final_exam = None
-    last_applicable = 'Summer break'
+    last_applicable = 'b'
 
     for row in shortenedrows:
         if row[BEGIN_DATE] <= date_float <= row[END_DATE]:
             if row['Event'] == 'Class begins' or row['Event'] == 'Classes begin':
-                return 'Class'
-            return row['Event']
+                return 'c'
+            if row['Event'] == 'Final exam' or row['Event'] == 'Final exams':
+                return 'f'
+            return 'b'
         
-        if row[BEGIN_DATE] <= date_float and math.isnan:
+        if row[BEGIN_DATE] <= date_float:
             last_applicable = row['Event']
 
-        if row[END_DATE] < date_float and row['Event'] == 'Final exams':
-            last_final_exam = row[END_DATE]
-        
-        if row[BEGIN_DATE] > date_float and next_class_begin is None and row['Event'] == 'Class begins':
-            next_class_begin = row[BEGIN_DATE]
-        
-        if row[BEGIN_DATE] > date_float and next_final_exam is None and row['Event'] == 'Final Exams':
-            next_class_begin = row[BEGIN_DATE]
-        
-        # if row[]
-
-    if not next_class_begin:
-        next_class_begin = 20220000
-    if not next_final_exam:
-        next_final_examp = 2022000
-
-    # if last_final_exam <= date_float  <= next_class_begin:
-    #     if not (2 <= int(date.split('-')[1]) <= 10):
-    #         return 'Winter break'
-        
-    #     return 'Summer break'
 
     if last_applicable == 'Class begins' or last_applicable == 'Classes begin':
-        last_applicable = 'Class'
+        last_applicable = 'c'
 
     if last_applicable in holidays:
-        return 'Class'
+        return 'c'
     
-    if last_applicable == 'Final exams':
-        if 2 <= int(date.split('-')[1]) <= 10:
-            return 'Summer break'
-        return 'Winter break'
+    if last_applicable == 'Final exams' or last_applicable == 'Final exam':
+        return 'b'
 
     return last_applicable
 
@@ -89,6 +64,18 @@ def get_class(date: str):
 
 
 
+# activity = pd.read_csv('original_data/activity.csv')
+# activity['datadate'] = activity['datadate'].apply(get_class)
+# activity.to_csv('original_data/activity_date_class.csv', index=False)
+
+# sleep = pd.read_csv('original_data/sleep_daily.csv')
+# sleep['dataDate'] = sleep['dataDate'].apply(get_class)
+# sleep.to_csv('original_data/sleep_daily_date_class.csv', index=False)
+
 activity = pd.read_csv('original_data/activity.csv')
-activity['datadate'] = activity['datadate'].apply(get_class)
-activity.to_csv('original_data/activity_date_class.csv', index=False)
+sleep = pd.read_csv('original_data/sleep_daily.csv')
+
+activity_sleep = pd.merge(sleep, activity, left_on=['egoid', 'dataDate'], right_on=['egoid', 'datadate'] )
+activity_sleep.drop('datadate', axis=1, inplace=True)
+activity_sleep['dataDate'] = activity_sleep['dataDate'].apply(get_class)
+activity_sleep.to_csv('merged_data/activity_sleep_daily_date_class.csv', index=False)
