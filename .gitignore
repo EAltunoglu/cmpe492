@@ -11,7 +11,9 @@ __pycache__/
 !original_data/*.csv
 !merged_data/sleep_activity.csv
 !merged_data/sleep_grade_term.csv
-
+!refined_data/*
+!merged_data/activity_sleep_daily*
+!final_data/*
 
 # Distribution / packaging
 .Python
