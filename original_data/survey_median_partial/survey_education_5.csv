@@ -16,7 +16,6 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 77941,302.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 44873,401.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 36540,309.0,131.0,,
-14527,309.0,131.0,,
 83005,131.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 31439,501.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 21899,302.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
@@ -25,7 +24,6 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 45375,109.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 25536,306.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 32037,402.0,501.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-90476,309.0,131.0,,
 46558,301.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 24016,309.0,131.0,,
 52277,309.0,131.0,,
@@ -51,7 +49,6 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 82376,309.0,131.0,,
 44872,507.0,135.0,"M.D., D.O., D.D.S., or D.V.M.",no
 87783,401.0,125.0,J.D. (Law),no
-22199,309.0,131.0,,
 47498,309.0,131.0,,
 57325,503.0,123.0,Ph.D or Ed.D.,no
 53776,309.0,131.0,,
@@ -61,7 +58,6 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 73143,309.0,131.0,,
 35797,309.0,131.0,,
 46365,511.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
-30596,309.0,131.0,,
 31045,309.0,131.0,,
 74492,511.0,514.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 76791,309.0,131.0,,
@@ -69,7 +65,6 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 23287,100.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 14763,309.0,131.0,,
 22066,309.0,131.0,,
-64058,309.0,131.0,,
 28247,200.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",yes
 72873,309.0,131.0,,
 67544,309.0,131.0,,
@@ -77,7 +72,6 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 51760,306.0,131.0,Ph.D or Ed.D.,no
 72806,109.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 98766,403.0,112.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-23042,309.0,131.0,,
 60997,309.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 36038,309.0,131.0,,
 39146,503.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
@@ -85,8 +79,6 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 67918,303.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 34467,507.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
 42132,309.0,131.0,,
-41268,309.0,131.0,,
-90692,102.0,109.0,J.D. (Law),no
 32668,109.0,130.0,"Bachelor's degree (B.A., B.S., etc.)",yes
 24079,302.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 59673,303.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
@@ -95,11 +87,8 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 81807,302.0,131.0,Ph.D or Ed.D.,no
 77187,309.0,131.0,,
 91176,508.0,506.0,Ph.D or Ed.D.,no
-22292,309.0,131.0,,
 35011,402.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
-76785,309.0,131.0,,
 60903,309.0,131.0,,
-10115,309.0,131.0,,
 35416,309.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 89710,128.0,132.0,J.D. (Law),no
 97596,405.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
@@ -111,17 +100,13 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 67334,309.0,131.0,,
 60230,309.0,131.0,,
 77838,403.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
-37371,309.0,131.0,,
 57292,309.0,131.0,,
 66406,309.0,131.0,,
-90447,309.0,131.0,,
 56798,128.0,131.0,J.D. (Law),yes
-28827,309.0,131.0,,
 23115,309.0,131.0,,
 77872,304.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 43114,302.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 72348,507.0,131.0,Ph.D or Ed.D.,no
-15707,309.0,131.0,,
 45776,309.0,131.0,,
 63122,309.0,131.0,,
 27169,309.0,131.0,,
@@ -134,7 +119,6 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 28820,309.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 35347,109.0,403.0,J.D. (Law),yes
 45641,309.0,131.0,,
-25369,309.0,131.0,,
 64572,309.0,131.0,,
 31538,309.0,131.0,,
 73452,302.0,510.0,"M.D., D.O., D.D.S., or D.V.M.",no
@@ -156,23 +140,19 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 74845,403.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 90905,309.0,131.0,,
 39659,309.0,131.0,,
-62072,309.0,131.0,,
 60396,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 61084,309.0,131.0,,
 92412,109.0,506.0,Ph.D or Ed.D.,no
 92038,405.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 33388,401.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 31717,309.0,131.0,,
-18324,309.0,131.0,,
 86440,401.0,128.0,J.D. (Law),no
 95585,308.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 29792,508.0,501.0,Ph.D or Ed.D.,no
 14737,403.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 28223,502.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
-85708,309.0,131.0,,
 55452,200.0,131.0,Ph.D or Ed.D.,no
 20179,308.0,131.0,Ph.D or Ed.D.,no
-78339,309.0,131.0,,
 23696,309.0,131.0,,
 28653,402.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",yes
 84715,309.0,131.0,,
@@ -192,26 +172,19 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 44927,502.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",yes
 71894,305.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 76790,128.0,135.0,J.D. (Law),no
-78428,309.0,131.0,,
 66676,309.0,131.0,,
 95930,401.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
 70962,503.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
 12738,309.0,131.0,,
-29647,309.0,131.0,,
 27111,309.0,131.0,,
 30453,401.0,135.0,"Bachelor's degree (B.A., B.S., etc.)",no
-58219,309.0,131.0,,
-28377,309.0,131.0,,
 80177,309.0,131.0,,
 18677,404.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
 66047,103.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 58682,406.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
-81199,309.0,131.0,,
-85679,309.0,131.0,,
 79834,507.0,131.0,Ph.D or Ed.D.,no
 93471,309.0,131.0,,
 19538,309.0,131.0,,
-14595,309.0,131.0,,
 38052,508.0,131.0,Ph.D or Ed.D.,no
 33133,111.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 40021,507.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
@@ -220,25 +193,18 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 47810,309.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
 58196,403.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 42773,309.0,131.0,,
-72152,309.0,131.0,,
 76663,109.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 48224,306.0,111.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 30137,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 68318,507.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
 62246,309.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",yes
-69496,309.0,131.0,,
 61028,309.0,131.0,,
 55424,401.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 17581,309.0,131.0,,
 23576,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-57842,309.0,131.0,,
 17522,511.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
-55685,309.0,131.0,,
-74079,309.0,131.0,,
 97833,309.0,131.0,,
-11992,309.0,131.0,,
 93485,403.0,135.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-34402,309.0,131.0,,
 62617,507.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
 42137,303.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 37305,406.0,111.0,"Bachelor's degree (B.A., B.S., etc.)",yes
@@ -246,14 +212,11 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 44447,309.0,131.0,,
 14571,503.0,501.0,Ph.D or Ed.D.,no
 69057,309.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
-49125,309.0,131.0,,
 66629,309.0,131.0,,
 83542,110.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 18222,305.0,131.0,Ph.D or Ed.D.,no
 39738,402.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 26858,510.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
-70552,309.0,131.0,,
-38826,131.0,135.0,Ph.D or Ed.D.,no
 93504,106.0,406.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
 64232,507.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
 37404,401.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",yes
@@ -264,7 +227,6 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 28824,309.0,131.0,,
 11482,309.0,131.0,,
 69936,309.0,131.0,,
-91320,309.0,131.0,,
 37001,403.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 70492,511.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",yes
 95543,305.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
@@ -292,14 +254,10 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 67608,503.0,129.0,"M.D., D.O., D.D.S., or D.V.M.",yes
 19735,200.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 42513,309.0,131.0,,
-64595,309.0,131.0,,
-85134,309.0,131.0,,
 51952,309.0,131.0,,
-28837,309.0,131.0,,
 46266,309.0,131.0,,
 61289,309.0,131.0,,
 18743,309.0,131.0,,
-13647,309.0,131.0,,
 59207,302.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 48946,309.0,131.0,,
 86083,130.0,131.0,J.D. (Law),no
@@ -313,10 +271,7 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 94455,309.0,131.0,,
 11148,309.0,131.0,,
 88384,309.0,131.0,,
-60904,309.0,131.0,,
 64302,303.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-51882,309.0,131.0,,
-54200,309.0,131.0,,
 22688,306.0,504.0,Ph.D or Ed.D.,no
 38815,305.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 34525,309.0,131.0,,
@@ -328,7 +283,6 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 72160,309.0,131.0,,
 55569,305.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 72885,305.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-47006,309.0,131.0,,
 36574,116.0,131.0,J.D. (Law),no
 71193,109.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
 44070,402.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
@@ -340,7 +294,6 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 98117,503.0,131.0,Ph.D or Ed.D.,yes
 22989,109.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 24883,502.0,115.0,"M.D., D.O., D.D.S., or D.V.M.",no
-65068,309.0,131.0,,
 20650,128.0,131.0,J.D. (Law),no
 19460,309.0,131.0,,
 66815,507.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
@@ -359,9 +312,7 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 57144,511.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",yes
 94662,309.0,131.0,,
 98700,309.0,131.0,,
-44675,309.0,131.0,,
 33341,309.0,131.0,,
-37396,309.0,131.0,,
 65072,403.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
 37148,309.0,131.0,,
 11910,401.0,106.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
@@ -378,7 +329,6 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 29733,309.0,131.0,,
 98206,305.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 36385,116.0,506.0,"Bachelor's degree (B.A., B.S., etc.)",no
-26651,309.0,131.0,,
 54030,404.0,131.0,Ph.D or Ed.D.,yes
 67993,131.0,131.0,Ph.D or Ed.D.,no
 96543,304.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",yes
@@ -388,7 +338,6 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 72850,307.0,128.0,J.D. (Law),no
 15134,309.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 69124,309.0,131.0,,
-42531,109.0,110.0,J.D. (Law),yes
 34062,507.0,131.0,Ph.D or Ed.D.,yes
 18111,401.0,135.0,"Bachelor's degree (B.A., B.S., etc.)",no
 42646,507.0,137.0,"M.D., D.O., D.D.S., or D.V.M.",no
@@ -398,7 +347,6 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 91484,309.0,131.0,,
 24833,511.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
 21971,511.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
-58654,309.0,131.0,,
 13928,309.0,131.0,,
 84502,109.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
 64090,309.0,131.0,,
@@ -406,7 +354,6 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 78783,200.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 25197,501.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
 35872,510.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
-93462,309.0,131.0,,
 23270,512.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
 69807,309.0,131.0,,
 92716,302.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
@@ -419,25 +366,19 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 67192,507.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 12029,405.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
 70745,117.0,131.0,J.D. (Law),no
-43255,309.0,131.0,,
 93856,309.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 10237,111.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",yes
 97448,134.0,135.0,"Bachelor's degree (B.A., B.S., etc.)",no
-43603,309.0,131.0,,
-86974,309.0,131.0,,
 89165,309.0,131.0,,
 97280,309.0,131.0,,
 54098,304.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 66156,305.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 67177,401.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 22540,309.0,131.0,,
-70668,309.0,131.0,,
 15586,309.0,131.0,,
-27232,309.0,131.0,,
 18611,507.0,125.0,J.D. (Law),no
 87328,109.0,111.0,"Bachelor's degree (B.A., B.S., etc.)",no
 88963,309.0,131.0,,
-61756,309.0,131.0,,
 57045,309.0,131.0,,
 49497,108.0,406.0,"Bachelor's degree (B.A., B.S., etc.)",no
 15031,309.0,131.0,,
@@ -471,9 +412,7 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 48969,116.0,110.0,"Bachelor's degree (B.A., B.S., etc.)",no
 22093,309.0,131.0,,
 32919,309.0,131.0,,
-10153,511.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
 79731,309.0,131.0,,
-63611,309.0,131.0,,
 64296,506.0,135.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
 23487,309.0,131.0,,
 17569,309.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
@@ -492,16 +431,13 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 38610,501.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 96610,131.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
 77711,109.0,401.0,"Bachelor's degree (B.A., B.S., etc.)",no
-48505,309.0,131.0,,
 78667,309.0,131.0,,
 17020,305.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 48676,507.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
 29885,109.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-32976,309.0,131.0,,
 79167,128.0,116.0,J.D. (Law),no
 65061,309.0,131.0,,
 43710,401.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-61389,309.0,131.0,,
 22455,128.0,131.0,Ph.D or Ed.D.,no
 82819,309.0,131.0,,
 67771,309.0,131.0,,
@@ -529,31 +465,25 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 25125,309.0,131.0,,
 25548,302.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 25966,503.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",yes
-95444,309.0,131.0,,
 96689,309.0,131.0,,
-22587,309.0,131.0,,
 43581,507.0,510.0,"M.D., D.O., D.D.S., or D.V.M.",no
 75578,309.0,131.0,,
 43507,309.0,131.0,,
 91551,507.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
-30676,309.0,131.0,,
 19030,309.0,131.0,,
 33657,117.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
 76521,309.0,131.0,,
 52848,309.0,131.0,,
 40231,309.0,131.0,,
 65656,304.0,131.0,Ph.D or Ed.D.,no
-30610,309.0,131.0,,
 36117,506.0,131.0,Ph.D or Ed.D.,no
 82587,405.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 14690,309.0,131.0,,
 40569,309.0,131.0,,
-97021,309.0,131.0,,
 26320,406.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 77532,110.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 92515,501.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
 97844,301.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
-81647,309.0,131.0,,
 33127,309.0,131.0,,
 45958,309.0,131.0,,
 49790,200.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
@@ -581,12 +511,9 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 61659,309.0,131.0,,
 81420,309.0,131.0,,
 33740,309.0,131.0,,
-37979,309.0,131.0,,
-87192,309.0,131.0,,
 67709,111.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 36552,309.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 14301,503.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
-36384,309.0,131.0,,
 63138,502.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
 51298,304.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",yes
 74632,502.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",yes
@@ -596,18 +523,12 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 29134,511.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
 24029,506.0,131.0,Ph.D or Ed.D.,no
 35361,309.0,131.0,,
-87056,309.0,131.0,,
 49086,406.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
 67917,309.0,131.0,,
 85503,301.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 60008,309.0,131.0,,
-66542,309.0,131.0,,
 55881,309.0,131.0,,
-86265,309.0,131.0,,
-10732,309.0,131.0,,
 22119,308.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-50797,309.0,131.0,,
-39564,309.0,131.0,,
 39285,309.0,131.0,,
 22460,309.0,131.0,,
 25172,108.0,406.0,"Bachelor's degree (B.A., B.S., etc.)",no
@@ -619,24 +540,20 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 95490,309.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 66979,309.0,131.0,,
 23253,507.0,135.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-12900,309.0,131.0,,
 90079,304.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
 47584,511.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
 97990,402.0,506.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 39248,309.0,131.0,,
 29354,309.0,131.0,,
-25743,309.0,131.0,,
 91429,511.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",yes
 82269,117.0,131.0,Ph.D or Ed.D.,no
 22842,306.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 31311,309.0,131.0,,
-32423,309.0,131.0,,
 33084,309.0,131.0,,
 14279,401.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
 91932,309.0,131.0,,
 32404,309.0,131.0,,
 73577,309.0,131.0,,
-70561,309.0,131.0,,
 43177,128.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 36501,309.0,131.0,,
 26857,305.0,114.0,Ph.D or Ed.D.,yes
@@ -644,13 +561,11 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 42674,309.0,131.0,,
 79897,309.0,131.0,,
 64978,309.0,131.0,,
-70434,309.0,131.0,,
 52302,511.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
 97050,507.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
 46418,507.0,115.0,"M.D., D.O., D.D.S., or D.V.M.",no
 86691,309.0,131.0,,
 93002,503.0,506.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-81930,309.0,131.0,,
 56543,309.0,131.0,,
 92618,309.0,131.0,,
 17470,306.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
@@ -674,26 +589,17 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 72570,304.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
 67574,302.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 42231,309.0,131.0,,
-44639,309.0,131.0,,
-64072,309.0,131.0,,
 84960,309.0,131.0,,
-43809,309.0,131.0,,
-27941,309.0,131.0,,
 31033,309.0,131.0,,
-39301,309.0,131.0,,
 10469,510.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
 77789,109.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 47024,406.0,110.0,"Bachelor's degree (B.A., B.S., etc.)",no
 88582,309.0,131.0,,
-73897,309.0,131.0,,
 83470,309.0,131.0,,
 67015,501.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 26272,309.0,131.0,,
 21909,309.0,131.0,,
 88882,403.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-62510,309.0,131.0,,
-96828,403.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-64406,309.0,131.0,,
 31985,309.0,131.0,,
 91337,309.0,131.0,,
 87664,309.0,131.0,,
@@ -705,19 +611,13 @@ egoid,major1rc_5,major2rc_5,degreeintent_5,majorevent_5
 93787,507.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
 52621,309.0,131.0,,
 38914,309.0,131.0,,
-37594,309.0,131.0,,
 19833,309.0,131.0,,
-17270,200.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 40864,309.0,131.0,,
-38313,309.0,131.0,,
-55340,309.0,131.0,,
 18707,109.0,131.0,J.D. (Law),yes
-73807,309.0,131.0,,
 26718,305.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
 63347,502.0,131.0,Other,no
 35824,309.0,131.0,,
 48826,309.0,131.0,,
-11454,309.0,131.0,,
 93246,309.0,131.0,,
 75341,309.0,131.0,,
 35925,403.0,501.0,Ph.D or Ed.D.,no

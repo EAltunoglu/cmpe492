@@ -1,723 +1,623 @@
 egoid,major1rc_3,major2rc_3,degreeintent_3,majorevent_3
 44869,507.0,101.0,"M.D., D.O., D.D.S., or D.V.M.",no
-43516,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-89411,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+43516,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+89411,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 74285,110.0,128.0,J.D. (Law),no
-56527,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-16819,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-34591,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-89972,309.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-92552,305.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-73158,306.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-45963,503.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
+56527,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+16819,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+34591,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+89972,309.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+92552,305.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+73158,306.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+45963,503.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
 22138,507.0,110.0,Ph.D or Ed.D.,no
-90136,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-46744,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+90136,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+46744,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 77941,302.0,510.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 44873,403.0,401.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-36540,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-14527,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+36540,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 83005,131.0,113.0,"Bachelor's degree (B.A., B.S., etc.)",no
-31439,501.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-21899,302.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-29232,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-32249,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-45375,109.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-25536,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+31439,501.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+21899,302.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+29232,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+32249,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+45375,109.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+25536,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 32037,400.0,501.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-90476,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-46558,301.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-24016,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-52277,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-93699,401.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-36875,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-84011,503.0,109.0,Ph.D or Ed.D.,no
-90646,309.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-88008,303.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
+46558,301.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+24016,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+52277,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+93699,401.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+36875,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+84011,503.0,128.0,Ph.D or Ed.D.,no
+90646,309.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
+88008,303.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
 88967,109.0,110.0,"Bachelor's degree (B.A., B.S., etc.)",no
-46701,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-83566,134.0,109.0,Ph.D or Ed.D.,no
-21090,305.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-69419,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-87032,200.0,109.0,Ph.D or Ed.D.,no
+46701,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+83566,134.0,128.0,Ph.D or Ed.D.,no
+21090,305.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+69419,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+87032,200.0,128.0,Ph.D or Ed.D.,no
 94641,305.0,125.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 82728,510.0,104.0,"M.D., D.O., D.D.S., or D.V.M.",no
 45076,404.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-58437,309.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+58437,309.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 94862,403.0,501.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-14606,304.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
+14606,304.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
 64075,403.0,404.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-39787,307.0,109.0,Ph.D or Ed.D.,no
-82376,200.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+39787,307.0,128.0,Ph.D or Ed.D.,no
+82376,200.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 44872,507.0,510.0,"M.D., D.O., D.D.S., or D.V.M.",no
 87783,404.0,125.0,J.D. (Law),no
-22199,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 47498,511.0,135.0,"M.D., D.O., D.D.S., or D.V.M.",yes
 57325,123.0,129.0,"M.D., D.O., D.D.S., or D.V.M.",no
-53776,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-58633,309.0,109.0,J.D. (Law),no
-27306,507.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+53776,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+58633,309.0,128.0,J.D. (Law),no
+27306,507.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 80607,103.0,140.0,Ph.D or Ed.D.,no
 73143,401.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-35797,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-46365,511.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-30596,508.0,109.0,Ph.D or Ed.D.,no
-31045,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-74492,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-76791,403.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-21348,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-23287,111.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-14763,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-22066,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-64058,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-28247,200.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-72873,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-67544,511.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-76810,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-51760,302.0,109.0,Ph.D or Ed.D.,no
-72806,109.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+35797,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+46365,511.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+31045,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+74492,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+76791,403.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+21348,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+23287,111.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+14763,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+22066,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+28247,200.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+72873,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+67544,511.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+76810,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+51760,302.0,128.0,Ph.D or Ed.D.,no
+72806,109.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 98766,403.0,112.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-23042,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-60997,309.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
+60997,309.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
 36038,110.0,129.0,"M.D., D.O., D.D.S., or D.V.M.",yes
-39146,503.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-60963,304.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-67918,303.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-34467,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-42132,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-41268,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-90692,102.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
+39146,503.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+60963,304.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+67918,303.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+34467,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+42132,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 32668,109.0,130.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-24079,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-59673,303.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-74899,509.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",yes
-48891,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+24079,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+59673,303.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+74899,509.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",yes
+48891,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 81807,302.0,305.0,Ph.D or Ed.D.,no
-77187,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+77187,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 91176,508.0,506.0,Ph.D or Ed.D.,no
-22292,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 35011,406.0,128.0,J.D. (Law),no
-76785,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-60903,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-10115,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-35416,309.0,109.0,Ph.D or Ed.D.,yes
-89710,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+60903,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+35416,309.0,128.0,Ph.D or Ed.D.,yes
+89710,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 97596,405.0,100.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-39129,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-57359,503.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",yes
+39129,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+57359,503.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",yes
 17308,503.0,507.0,"M.D., D.O., D.D.S., or D.V.M.",no
-51851,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-35855,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-67334,305.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",yes
-60230,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+51851,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
+35855,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+67334,305.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",yes
+60230,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 77838,403.0,401.0,"Bachelor's degree (B.A., B.S., etc.)",no
-37371,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-57292,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-66406,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-90447,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+57292,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+66406,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 56798,128.0,138.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-28827,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-23115,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-77872,304.0,109.0,J.D. (Law),no
-43114,302.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-72348,507.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-15707,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-45776,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-63122,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-27169,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-89607,305.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-59900,511.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
+23115,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+77872,304.0,128.0,J.D. (Law),no
+43114,302.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+72348,507.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+45776,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+63122,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+27169,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+89607,305.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+59900,511.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
 28254,309.0,106.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-56480,309.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",yes
-11128,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-47886,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-28820,309.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
+56480,309.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",yes
+11128,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+47886,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+28820,309.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
 35347,403.0,109.0,J.D. (Law),no
-45641,302.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-25369,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+45641,302.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
 64572,306.0,304.0,"Bachelor's degree (B.A., B.S., etc.)",no
-31538,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+31538,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 73452,302.0,510.0,"M.D., D.O., D.D.S., or D.V.M.",no
-51475,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+51475,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 28312,403.0,501.0,J.D. (Law),no
-13486,405.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-56805,303.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-57697,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-54837,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+13486,405.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+56805,303.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+57697,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+54837,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 29718,131.0,138.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 26800,403.0,501.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-60493,403.0,109.0,Ph.D or Ed.D.,no
-52051,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-30972,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-47142,403.0,109.0,Ph.D or Ed.D.,no
-69217,309.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-69009,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+60493,403.0,128.0,Ph.D or Ed.D.,no
+52051,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+30972,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+47142,403.0,128.0,Ph.D or Ed.D.,no
+69217,309.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+69009,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 84390,400.0,104.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-74845,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-90905,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+74845,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+90905,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 39659,109.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
-62072,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 60396,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-61084,305.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+61084,305.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 92412,117.0,506.0,Ph.D or Ed.D.,no
-92038,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-33388,403.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-31717,302.0,109.0,Ph.D or Ed.D.,no
-18324,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-86440,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-95585,403.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-29792,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+92038,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+33388,403.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+31717,302.0,128.0,Ph.D or Ed.D.,no
+86440,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+95585,403.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+29792,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 14737,403.0,506.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-28223,502.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-85708,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-55452,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-20179,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-78339,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+28223,502.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+55452,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+20179,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 23696,109.0,506.0,Ph.D or Ed.D.,no
-28653,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-84715,107.0,109.0,Ph.D or Ed.D.,no
-95559,301.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+28653,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+84715,107.0,128.0,Ph.D or Ed.D.,no
+95559,301.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 30152,507.0,510.0,"M.D., D.O., D.D.S., or D.V.M.",yes
 68764,305.0,500.0,"Bachelor's degree (B.A., B.S., etc.)",no
-60367,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-36939,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-59592,503.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
+60367,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+36939,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+59592,503.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
 22897,309.0,306.0,"Bachelor's degree (B.A., B.S., etc.)",no
 89652,503.0,103.0,"M.D., D.O., D.D.S., or D.V.M.",no
-28724,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-92895,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-69831,305.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-59178,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-50072,503.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
+28724,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+92895,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+69831,305.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+59178,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+50072,503.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
 44927,502.0,131.0,"M.D., D.O., D.D.S., or D.V.M.",no
-71894,305.0,109.0,Ph.D or Ed.D.,no
+71894,305.0,128.0,Ph.D or Ed.D.,no
 76790,128.0,135.0,J.D. (Law),no
-78428,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-66676,502.0,109.0,Ph.D or Ed.D.,no
-95930,401.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-70962,503.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
+66676,502.0,128.0,Ph.D or Ed.D.,no
+95930,401.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+70962,503.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
 12738,128.0,125.0,Ph.D or Ed.D.,yes
-29647,504.0,109.0,Ph.D or Ed.D.,no
-27111,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+27111,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 30453,401.0,135.0,"Bachelor's degree (B.A., B.S., etc.)",no
-58219,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-28377,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 80177,309.0,310.0,Ph.D or Ed.D.,no
-18677,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-66047,103.0,109.0,Ph.D or Ed.D.,yes
-58682,406.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-81199,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-85679,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-79834,507.0,109.0,Ph.D or Ed.D.,no
-93471,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+18677,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+66047,103.0,128.0,Ph.D or Ed.D.,yes
+58682,406.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+79834,507.0,128.0,Ph.D or Ed.D.,no
+93471,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 19538,109.0,403.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-14595,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-38052,508.0,109.0,Ph.D or Ed.D.,no
+38052,508.0,128.0,Ph.D or Ed.D.,no
 33133,507.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
-40021,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-27141,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-93858,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-47810,309.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",yes
-58196,404.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-42773,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-72152,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-76663,511.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+40021,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+27141,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+93858,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+47810,309.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",yes
+58196,404.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+42773,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+76663,511.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 48224,306.0,111.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 30137,403.0,128.0,J.D. (Law),yes
 68318,502.0,134.0,Ph.D or Ed.D.,no
-62246,309.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-69496,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-61028,302.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",yes
+62246,309.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+61028,302.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",yes
 55424,403.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",yes
-17581,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+17581,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 23576,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-57842,404.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-17522,511.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-55685,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-74079,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+17522,511.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
 97833,403.0,134.0,"Bachelor's degree (B.A., B.S., etc.)",no
-11992,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-93485,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-34402,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-62617,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-42137,303.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-37305,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-48013,128.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",yes
-44447,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+93485,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+62617,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+42137,303.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+37305,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+48013,128.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",yes
+44447,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 14571,503.0,514.0,Ph.D or Ed.D.,no
-69057,309.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-49125,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+69057,309.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 66629,108.0,130.0,"Bachelor's degree (B.A., B.S., etc.)",no
-83542,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+83542,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 18222,305.0,306.0,Ph.D or Ed.D.,no
-39738,128.0,109.0,J.D. (Law),no
+39738,128.0,128.0,J.D. (Law),no
 26858,510.0,103.0,"M.D., D.O., D.D.S., or D.V.M.",no
-70552,111.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-38826,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 93504,400.0,106.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-64232,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",yes
-37404,401.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-25961,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-87330,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+64232,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",yes
+37404,401.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
+25961,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+87330,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 92028,511.0,130.0,Ph.D or Ed.D.,yes
-82248,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-28824,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-11482,109.0,109.0,Ph.D or Ed.D.,no
-69936,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-91320,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-37001,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-70492,511.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-95543,305.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-21380,302.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-67106,303.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-25495,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-26581,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-66642,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-83612,503.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-63954,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-20665,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-19122,301.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+82248,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+28824,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+11482,109.0,128.0,Ph.D or Ed.D.,no
+69936,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+37001,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+70492,511.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+95543,305.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+21380,302.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+67106,303.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+25495,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+26581,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+66642,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+83612,503.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+63954,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+20665,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+19122,301.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 99978,309.0,137.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-92566,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-39414,200.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-35987,305.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
+92566,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+39414,200.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+35987,305.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
 66655,129.0,134.0,"M.D., D.O., D.D.S., or D.V.M.",no
-10547,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-46373,128.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-79341,511.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-19591,403.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-83536,306.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-66682,305.0,109.0,Ph.D or Ed.D.,no
-88337,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-67608,503.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-19735,200.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-42513,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-64595,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-85134,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-51952,511.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",yes
-28837,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-46266,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-61289,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-18743,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-13647,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-59207,302.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
+10547,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+46373,128.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+79341,511.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+19591,403.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+83536,306.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+66682,305.0,128.0,Ph.D or Ed.D.,no
+88337,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+67608,503.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+19735,200.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
+42513,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+51952,511.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",yes
+46266,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+61289,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+18743,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+59207,302.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
 48946,508.0,506.0,Ph.D or Ed.D.,no
 86083,130.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
 96613,403.0,501.0,"Bachelor's degree (B.A., B.S., etc.)",no
-49014,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-50766,305.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
+49014,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+50766,305.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
 71089,305.0,111.0,"Bachelor's degree (B.A., B.S., etc.)",no
-80980,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-29115,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-98462,501.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-94455,305.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",yes
-11148,116.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-88384,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-60904,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-64302,303.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-51882,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-54200,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+80980,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+29115,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+98462,501.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+94455,305.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",yes
+11148,116.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
+88384,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+64302,303.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 22688,306.0,504.0,Ph.D or Ed.D.,no
 38815,305.0,304.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-34525,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+34525,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 68404,406.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-71836,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-12748,503.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-33445,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-83078,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-72160,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-55569,305.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-72885,305.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-47006,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-36574,116.0,109.0,J.D. (Law),no
-71193,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+71836,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+12748,503.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+33445,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+83078,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+72160,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+55569,305.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+72885,305.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
+36574,116.0,128.0,J.D. (Law),no
+71193,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 44070,401.0,403.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 49010,406.0,106.0,Ph.D or Ed.D.,no
 98760,302.0,510.0,"M.D., D.O., D.D.S., or D.V.M.",no
 95374,131.0,128.0,J.D. (Law),no
-71985,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+71985,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 43125,109.0,403.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 98117,503.0,510.0,"M.D., D.O., D.D.S., or D.V.M.",no
 22989,109.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 24883,502.0,510.0,Ph.D or Ed.D.,no
-65068,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-20650,128.0,109.0,J.D. (Law),no
-19460,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-66815,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
+20650,128.0,128.0,J.D. (Law),no
+19460,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+66815,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
 89161,403.0,501.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 54956,131.0,111.0,Ph.D or Ed.D.,no
-14847,401.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+14847,401.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 85453,309.0,303.0,"Bachelor's degree (B.A., B.S., etc.)",no
-19827,309.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-31121,305.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
+19827,309.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+31121,305.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
 38683,403.0,501.0,"Bachelor's degree (B.A., B.S., etc.)",no
-82918,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-43382,306.0,109.0,Ph.D or Ed.D.,yes
-44344,128.0,109.0,J.D. (Law),no
-94215,302.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-80675,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-57144,511.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-94662,501.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-98700,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-44675,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-33341,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-37396,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+82918,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+43382,306.0,128.0,Ph.D or Ed.D.,yes
+44344,128.0,128.0,J.D. (Law),no
+94215,302.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+80675,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+57144,511.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+94662,501.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
+98700,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+33341,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 65072,403.0,300.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-37148,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-11910,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-75438,401.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-99733,305.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-27407,309.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-14250,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-43794,309.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-73918,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-60216,302.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",yes
-28681,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+37148,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+11910,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+75438,401.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
+99733,305.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+27407,309.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+14250,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+43794,309.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+73918,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+60216,302.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",yes
+28681,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 51437,503.0,135.0,"Bachelor's degree (B.A., B.S., etc.)",no
-21932,302.0,109.0,Ph.D or Ed.D.,no
+21932,302.0,128.0,Ph.D or Ed.D.,no
 29733,117.0,128.0,Ph.D or Ed.D.,no
-98206,305.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-36385,403.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-26651,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-54030,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-67993,131.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-96543,304.0,109.0,Ph.D or Ed.D.,no
-49800,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-29296,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-11002,503.0,109.0,Ph.D or Ed.D.,no
+98206,305.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+36385,403.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+54030,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+67993,131.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+96543,304.0,128.0,Ph.D or Ed.D.,no
+49800,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+29296,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+11002,503.0,128.0,Ph.D or Ed.D.,no
 72850,307.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
-15134,309.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-69124,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-42531,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-34062,507.0,109.0,Ph.D or Ed.D.,yes
+15134,309.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+69124,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+34062,507.0,128.0,Ph.D or Ed.D.,yes
 18111,401.0,135.0,"Bachelor's degree (B.A., B.S., etc.)",no
-42646,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-63922,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-59097,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+42646,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+63922,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+59097,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 72912,406.0,135.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-91484,117.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-24833,511.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-21971,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-58654,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-13928,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+91484,117.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+24833,511.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+21971,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+13928,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 84502,128.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-64090,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-52123,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-78783,200.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-25197,501.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-35872,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-93462,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+64090,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+52123,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+78783,200.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+25197,501.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+35872,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 23270,512.0,510.0,"M.D., D.O., D.D.S., or D.V.M.",no
-69807,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-92716,302.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-66061,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-56058,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-57854,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-68679,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-90750,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+69807,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+92716,302.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
+66061,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+56058,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+57854,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+68679,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+90750,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 70125,108.0,406.0,"Bachelor's degree (B.A., B.S., etc.)",no
-67192,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-12029,403.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-70745,117.0,109.0,J.D. (Law),no
-43255,400.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",yes
-93856,309.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-10237,111.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",yes
+67192,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+12029,403.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+70745,117.0,128.0,J.D. (Law),no
+93856,309.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+10237,111.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",yes
 97448,134.0,135.0,"Bachelor's degree (B.A., B.S., etc.)",no
-43603,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-86974,102.0,109.0,J.D. (Law),no
-89165,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-97280,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-54098,304.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-66156,305.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",yes
-67177,401.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
+89165,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+97280,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+54098,304.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+66156,305.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",yes
+67177,401.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
 22540,301.0,508.0,Ph.D or Ed.D.,no
-70668,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 15586,128.0,106.0,Other,yes
-27232,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 18611,507.0,125.0,J.D. (Law),yes
 87328,109.0,111.0,"Bachelor's degree (B.A., B.S., etc.)",no
-88963,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-61756,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+88963,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 57045,109.0,108.0,"Bachelor's degree (B.A., B.S., etc.)",no
 49497,406.0,108.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-15031,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-79607,302.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
+15031,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+79607,302.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
 41952,109.0,506.0,"Bachelor's degree (B.A., B.S., etc.)",no
-17183,404.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-22408,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-54435,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
+17183,404.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+22408,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+54435,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
 38554,401.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-38293,305.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
+38293,305.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
 33785,304.0,123.0,Ph.D or Ed.D.,no
-44310,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+44310,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 33009,130.0,110.0,J.D. (Law),no
-31294,510.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-65143,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+31294,510.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+65143,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 91726,306.0,304.0,"Bachelor's degree (B.A., B.S., etc.)",no
-59355,302.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-96184,200.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",yes
-92339,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-70005,304.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-64157,102.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-68050,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-46151,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-79395,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+59355,302.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+96184,200.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",yes
+92339,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+70005,304.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+64157,102.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+68050,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+46151,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+79395,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 59863,403.0,108.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 63419,507.0,135.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-22913,303.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+22913,303.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 91313,117.0,506.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 14511,130.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",yes
-73962,305.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-48969,503.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",yes
-22093,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-32919,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-10153,511.0,135.0,"M.D., D.O., D.D.S., or D.V.M.",no
+73962,305.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+48969,503.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",yes
+22093,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+32919,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 79731,404.0,406.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-63611,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 64296,506.0,135.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-23487,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-17569,309.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-77036,303.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-53518,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-92340,309.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",yes
-37485,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-33953,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-53333,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-82986,302.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-61772,511.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-47280,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+23487,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+17569,309.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+77036,303.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+53518,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
+92340,309.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",yes
+37485,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+33953,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+53333,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+82986,302.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+61772,511.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+47280,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 70566,116.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
-82964,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+82964,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 11402,131.0,109.0,Ph.D or Ed.D.,yes
-38610,501.0,109.0,Ph.D or Ed.D.,no
-96610,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+38610,501.0,128.0,Ph.D or Ed.D.,no
+96610,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 77711,403.0,109.0,Ph.D or Ed.D.,no
-48505,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-78667,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+78667,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 17020,305.0,403.0,"Bachelor's degree (B.A., B.S., etc.)",no
-48676,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",yes
+48676,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",yes
 29885,109.0,131.0,Ph.D or Ed.D.,yes
-32976,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 79167,128.0,116.0,J.D. (Law),no
-65061,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-43710,401.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-61389,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-22455,128.0,109.0,Ph.D or Ed.D.,no
-82819,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-67771,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-57443,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",yes
+65061,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+43710,401.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+22455,128.0,128.0,Ph.D or Ed.D.,no
+82819,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+67771,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+57443,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",yes
 96469,403.0,135.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-94579,403.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
+94579,403.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
 29257,403.0,508.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 23518,137.0,506.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-80484,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+80484,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 49539,134.0,128.0,J.D. (Law),no
-63904,504.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
+63904,504.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
 82490,403.0,128.0,J.D. (Law),no
-20335,305.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+20335,305.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 35031,406.0,108.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
 88185,134.0,137.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-35344,302.0,109.0,Ph.D or Ed.D.,no
-31175,128.0,109.0,J.D. (Law),yes
-41167,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-98325,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-36963,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+35344,302.0,128.0,Ph.D or Ed.D.,no
+31175,128.0,128.0,J.D. (Law),yes
+41167,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+98325,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+36963,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 50666,137.0,100.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 98624,110.0,129.0,"M.D., D.O., D.D.S., or D.V.M.",no
-42617,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
+42617,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
 58793,134.0,140.0,J.D. (Law),no
-25125,131.0,109.0,Ph.D or Ed.D.,no
-25548,302.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-25966,503.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-95444,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+25125,131.0,128.0,Ph.D or Ed.D.,no
+25548,302.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+25966,503.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
 96689,109.0,137.0,Other,no
-22587,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-43581,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-75578,304.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-43507,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-91551,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-30676,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-19030,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-33657,117.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-76521,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-52848,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-40231,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-65656,304.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-30610,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-36117,506.0,109.0,Ph.D or Ed.D.,no
-82587,401.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-14690,102.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-40569,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-97021,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-26320,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+43581,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+75578,304.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+43507,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+91551,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+19030,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+33657,117.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
+76521,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+52848,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+40231,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+65656,304.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+36117,506.0,128.0,Ph.D or Ed.D.,no
+82587,401.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+14690,102.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+40569,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+26320,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 77532,110.0,131.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 92515,501.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-97844,301.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-81647,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-33127,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-45958,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-49790,200.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-74251,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-28326,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-20507,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-71592,506.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",yes
-15181,502.0,109.0,Ph.D or Ed.D.,no
-70209,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-78657,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-21887,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-48154,507.0,109.0,Ph.D or Ed.D.,no
-92953,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-90192,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-51495,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-34344,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-21793,309.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-37218,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+97844,301.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+33127,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+45958,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+49790,200.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+74251,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+28326,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+20507,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+71592,506.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",yes
+15181,502.0,128.0,Ph.D or Ed.D.,no
+70209,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+78657,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+21887,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+48154,507.0,128.0,Ph.D or Ed.D.,no
+92953,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+90192,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+51495,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+34344,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+21793,309.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+37218,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 17932,125.0,107.0,"Bachelor's degree (B.A., B.S., etc.)",no
-95026,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-66800,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-73693,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+95026,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+66800,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+73693,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 80429,403.0,501.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-75149,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-61659,305.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
+75149,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+61659,305.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
 81420,401.0,403.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-33740,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-37979,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-87192,305.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
+33740,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
 67709,200.0,111.0,"Bachelor's degree (B.A., B.S., etc.)",no
-36552,303.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-14301,503.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-36384,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-63138,502.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-51298,304.0,109.0,J.D. (Law),no
-74632,502.0,109.0,Ph.D or Ed.D.,no
-16654,117.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
+36552,303.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+14301,503.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+63138,502.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+51298,304.0,128.0,J.D. (Law),no
+74632,502.0,128.0,Ph.D or Ed.D.,no
+16654,117.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
 54394,302.0,510.0,"M.D., D.O., D.D.S., or D.V.M.",no
-84768,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-29134,511.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-24029,506.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-35361,309.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-87056,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-49086,406.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-67917,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-85503,301.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-60008,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-66542,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-55881,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-86265,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-10732,403.0,131.0,"Bachelor's degree (B.A., B.S., etc.)",no
-22119,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-50797,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-39564,401.0,403.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-39285,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-22460,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+84768,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+29134,511.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+24029,506.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+35361,309.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+49086,406.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+67917,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+85503,301.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+60008,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+55881,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+22119,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+39285,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+22460,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 25172,406.0,108.0,"Bachelor's degree (B.A., B.S., etc.)",no
-77134,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+77134,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 22143,117.0,119.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-93766,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-45097,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-26289,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-95490,309.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",yes
-66979,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-23253,503.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-12900,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-90079,304.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",yes
-47584,511.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",yes
+93766,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+45097,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+26289,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+95490,309.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",yes
+66979,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+23253,503.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+90079,304.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",yes
+47584,511.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",yes
 97990,401.0,506.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-39248,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-29354,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-25743,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-91429,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+39248,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+29354,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+91429,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 82269,109.0,135.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-22842,306.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-31311,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-32423,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+22842,306.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+31311,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 33084,514.0,506.0,"M.D., D.O., D.D.S., or D.V.M.",no
 14279,401.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",yes
 91932,309.0,510.0,"M.D., D.O., D.D.S., or D.V.M.",no
 32404,403.0,401.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 73577,403.0,109.0,J.D. (Law),no
-70561,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 43177,128.0,125.0,J.D. (Law),no
-36501,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+36501,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 26857,305.0,114.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 28327,117.0,100.0,J.D. (Law),no
-42674,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-79897,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-64978,403.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-70434,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-52302,511.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-97050,302.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-46418,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-86691,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+42674,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+79897,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+64978,403.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+52302,511.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+97050,302.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+46418,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+86691,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 93002,506.0,307.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-81930,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 56543,110.0,111.0,"Bachelor's degree (B.A., B.S., etc.)",no
-92618,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+92618,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 17470,306.0,309.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-74211,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+74211,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 35180,137.0,110.0,Ph.D or Ed.D.,no
 89142,403.0,401.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-24898,302.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-74413,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-38824,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-51723,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-79352,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-30814,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-90502,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-94456,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-70661,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+24898,302.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+74413,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+38824,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+51723,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+79352,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+30814,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+90502,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+94456,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+70661,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 50976,305.0,304.0,"Bachelor's degree (B.A., B.S., etc.)",no
 55533,508.0,506.0,Ph.D or Ed.D.,no
-12156,503.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",yes
+12156,503.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",yes
 76485,116.0,129.0,"M.D., D.O., D.D.S., or D.V.M.",no
-33239,510.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",yes
-72570,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-67574,302.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-42231,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-44639,503.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",yes
-64072,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-84960,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-43809,309.0,108.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-27941,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+33239,510.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",yes
+72570,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+67574,302.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+42231,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+84960,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 31033,401.0,135.0,J.D. (Law),no
-39301,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-10469,510.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-77789,117.0,109.0,J.D. (Law),no
-47024,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+10469,510.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+77789,117.0,128.0,J.D. (Law),no
+47024,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 88582,134.0,140.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-73897,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-83470,130.0,109.0,J.D. (Law),no
-67015,501.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-26272,502.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-21909,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-88882,403.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-62510,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-96828,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-64406,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-31985,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-91337,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-87664,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+83470,130.0,128.0,J.D. (Law),no
+67015,501.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+26272,502.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+21909,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+88882,403.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+31985,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+91337,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+87664,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 19245,403.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
 83748,401.0,112.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-49915,309.0,109.0,"Bachelor's degree (B.A., B.S., etc.)",no
-51865,117.0,109.0,J.D. (Law),no
+49915,309.0,128.0,"Bachelor's degree (B.A., B.S., etc.)",no
+51865,117.0,128.0,J.D. (Law),no
 78407,108.0,305.0,"Bachelor's degree (B.A., B.S., etc.)",no
-93787,507.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-52621,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-38914,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-37594,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-19833,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-17270,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+93787,507.0,128.0,"M.D., D.O., D.D.S., or D.V.M.",no
+52621,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+38914,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+19833,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 40864,511.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",yes
-38313,503.0,109.0,"M.D., D.O., D.D.S., or D.V.M.",no
-55340,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 18707,109.0,131.0,Ph.D or Ed.D.,yes
-73807,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-26718,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-63347,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-35824,128.0,109.0,J.D. (Law),no
-48826,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-11454,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-93246,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
-75341,403.0,109.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+26718,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+63347,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+35824,128.0,128.0,J.D. (Law),no
+48826,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+93246,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
+75341,403.0,128.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
 35925,403.0,501.0,"Master's Degree (M.A., M.S., MBA, etc.)",no
