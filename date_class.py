@@ -1,5 +1,7 @@
 import pandas as pd
 import math
+import time
+import datetime
 
 calendercsv = pd.read_csv('original_data/calender.csv')
 calenderrows = [row for index, row in calendercsv.iterrows()]
@@ -20,6 +22,9 @@ def get_term(date: str):
         return 'spring'
     return 'fall'
 
+def get_timestamp(date: str):
+    return int(time.mktime(datetime.datetime.strptime(date,
+                                             "%Y-%m-%d").timetuple()))
 
 def get_class(date: str):
     date_float = float(date.replace('-', ''))
@@ -73,14 +78,27 @@ def get_class(date: str):
 # print(get_class('2016-01-12'))
 # print(get_class('2016-01-13'))
 
-def create_data_for_year(year: int, survey_wave: int):
-    activity = pd.read_csv('original_data/activity.csv')
-    sleep = pd.read_csv('original_data/sleep_daily.csv')
+def create_data_for_year(survey_wave: int, start_date: str, end_date: str):
+    # activity = pd.read_csv('original_data/activity.csv')
+    activity = pd.read_csv('refined_data/activity/activity_knn.csv')
+    sleep = pd.read_csv('refined_data/sleep/sleep_daily_timestamp.csv')
     survey = pd.read_csv('refined_data/survey_all_{}.csv'.format(survey_wave))
 
-    activity = activity[activity['datadate'].str.startswith(
-        str(year))]
-    sleep = sleep[sleep['dataDate'].str.startswith(str(year))]
+    # activity = activity[activity['datadate'].str.startswith(
+    #     str(year))]
+    # sleep = sleep[sleep['dataDate'].str.startswith(str(year))].dropna()
+
+    start_timestamp = get_timestamp(start_date)
+    end_timestamp = get_timestamp(end_date)
+
+    activity['timestamp'] = activity['datadate'].apply(get_timestamp)
+    sleep['timestamp'] = sleep['dataDate'].apply(get_timestamp)
+
+    activity = activity[activity['timestamp'].between(start_timestamp, end_timestamp, 'left')]
+    sleep = sleep[sleep['timestamp'].between(start_timestamp, end_timestamp, 'left')]
+
+    activity.drop('timestamp', axis=1, inplace=True)
+    sleep.drop('timestamp', axis=1, inplace=True)
 
     activity_sleep = pd.merge(sleep, activity, left_on=[
         'egoid', 'dataDate'], right_on=['egoid', 'datadate'])
@@ -89,8 +107,46 @@ def create_data_for_year(year: int, survey_wave: int):
     activity_sleep['dataDate'] = activity_sleep['dataDate'].apply(get_class)
     activity_sleep_survey = pd.merge(activity_sleep, survey, on='egoid')
     activity_sleep_survey.to_csv(
-        'final_data/activity_sleep_survey_date_extended_class_{}_{}.csv'.format(year, survey_wave), index=False)
+        'final_data/sleep_timestamp/activity_sleep_survey_date_extended_{}.csv'.format(survey_wave), index=False)
 
+def create_data_without_survey(wave: int, start_date: str, end_date: str):
+    # activity = pd.read_csv('original_data/activity.csv')
+    activity = pd.read_csv('refined_data/activity/activity_knn.csv')
+    sleep = pd.read_csv('refined_data/sleep/sleep_daily_timestamp.csv')
 
-create_data_for_year(2016, 1)
-create_data_for_year(2016, 2)
+    # activity = activity[activity['datadate'].str.startswith(
+    #     str(year))]
+    # sleep = sleep[sleep['dataDate'].str.startswith(str(year))].dropna()
+
+    start_timestamp = get_timestamp(start_date)
+    end_timestamp = get_timestamp(end_date)
+
+    activity['timestamp'] = activity['datadate'].apply(get_timestamp)
+    sleep['timestamp'] = sleep['dataDate'].apply(get_timestamp)
+
+    activity = activity[activity['timestamp'].between(start_timestamp, end_timestamp, 'left')]
+    sleep = sleep[sleep['timestamp'].between(start_timestamp, end_timestamp, 'left')]
+
+    activity.drop('timestamp', axis=1, inplace=True)
+    sleep.drop('timestamp', axis=1, inplace=True)
+
+    activity_sleep = pd.merge(sleep, activity, left_on=[
+        'egoid', 'dataDate'], right_on=['egoid', 'datadate'])
+
+    activity_sleep.drop('datadate', axis=1, inplace=True)
+    activity_sleep['dataDate'] = activity_sleep['dataDate'].apply(get_class)
+    activity_sleep.to_csv(f'final_data/activity_sleep/activity_sleep_date_extended_{wave}.csv', index=False)
+
+#               201400       201510       
+##              8/3/2015     1/31/2016    6/20/2016    11/1/2016   4/10/2017   11/9/2017   4/26/2018     4/12/2019
+begin_dates = ['2015-1-1' , '2015-11-1', '2016-4-15', '2016-9-1', '2017-1-1', '2017-7-1', '2018-1-1', '2019-1-1']
+end_dates   = ['2015-11-1', '2016-4-15', '2016-9-1' , '2017-1-1', '2017-7-1', '2018-1-1', '2019-1-1', '2020-1-1']
+
+# for wave in range(1, 9):
+#     create_data_for_year(wave, begin_dates[wave-1], end_dates[wave-1])
+
+for wave in range(1, 9):
+    create_data_without_survey(wave, begin_dates[wave-1], end_dates[wave-1])
+
+# create_data_for_year(2016, 1, begin_dates[1], end_dates[1])
+# create_data_for_year(2016, 2)
