@@ -1,4 +1,6 @@
-# cmpe492
+[Academic Performance Relation with Behavioral Trends and
+Personal Characteristics: Wearable Device Perspective](https://www.researchgate.net/profile/Berrenur-Saylam/publication/366977067_Academic_Performance_Relation_with_Behavioral_Trends_and_Personal_Characteristics_Wearable_Device_Perspective/links/63bc753d097c7832caa1ff35/Academic-Performance-Relation-with-Behavioral-Trends-and-Personal-Characteristics-Wearable-Device-Perspective.pdf)
+# Cmpe492
 
 ## Survey's feature selection and imputation
 
